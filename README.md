@@ -107,3 +107,21 @@ Through this project, I gained hands-on experience with:
 ## Disclaimer
 
 This repository is intended for educational and portfolio purposes. The implementation details, screenshots, and documentation demonstrate the project's architecture and functionality without exposing sensitive credentials or private configuration.
+
+## Screenshots
+
+### Complete Workflow
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
+### Google Sheets Node
+
+![Google Sheets](screenshots/google-sheets-node.png)
+
+### LinkedIn Node
+
+![LinkedIn](screenshots/linkedin-node.png)
+
+### Successful Execution
+
+![Successful Execution](screenshots/successful-run.png)
